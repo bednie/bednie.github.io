@@ -18,7 +18,7 @@ Notes:
     - Adapt principles to our own needs, which is Agile
 
 Population of interest? 
-    - People who use spaced repetition to learn
+    - People who use or might want to use spaced repetition to learn 
 What is their need?
     - Keep track of what they should be learning or reviewing, since it can be hard to remember
 Propose a product:
