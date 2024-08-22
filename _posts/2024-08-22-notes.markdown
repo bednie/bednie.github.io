@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Notes"
+date:   2024-08-22 00:01:00 -0600
+categories: jekyll update
+---
+
+August 22 notes:
+
+1. Group selection
+1. asdfasdf
