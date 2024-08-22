@@ -8,4 +8,10 @@ categories: jekyll update
 August 22 notes:
 
 1. Group selection
-1. asdfasdf
+1. Agile principles:
+    - Why we are able to follow Agile principles:
+        - Many of the principles can be adapted to our project
+    - Why we are not able to follow Agile principles:
+        - #3 might be difficult because we don't have a lot of time
+        - #8 Maintaining a constant pace could be difficult with the 
+        semester. For instance, midterms and finals might disrupt the pace. 
