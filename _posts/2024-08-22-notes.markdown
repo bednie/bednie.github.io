@@ -17,9 +17,10 @@ Notes:
         semester. For instance, midterms and finals might disrupt the pace. 
     - Adapt principles to our own needs, which is Agile
 
-Population of interest? 
-    1. People who use or might want to use spaced repetition to learn 
-What is their need?
-    1. Keep track of what they should be learning or reviewing, since it can be hard to remember
-Propose a product:
-    1. An app to keep track of their flashcards and to remind the user when and which task should be reviewed
+Exercise:
+1. Population of interest? 
+    - People who use or might want to use spaced repetition to learn 
+2. What is their need?
+    - Keep track of what they should be learning or reviewing, since it can be hard to remember
+3. Propose a product:
+    - An app to keep track of their flashcards and to remind the user when and which task should be reviewed
