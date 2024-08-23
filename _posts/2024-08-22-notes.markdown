@@ -6,8 +6,8 @@ categories: notes
 ---
 
 Notes:
-
-1. Group selection, brainstorm ideas 
+1. Start thinking about group selection
+2. Brainstorm project ideas 
 1. Agile principles:
     - Why we are able to follow Agile principles:
         - Many of the principles can be adapted to our project
@@ -15,10 +15,9 @@ Notes:
         - #3 might be difficult because we don't have a lot of time
         - #8 Maintaining a constant pace could be difficult with the 
         semester. For instance, midterms and finals might disrupt the pace. 
-    - Adapt principles to our own needs, which is Agile
+    - Adapt Agile principles to our own needs
 
 Exercise:
-
 1. Population of interest? 
     - People who use or might want to use [spaced repetition](https://borretti.me/article/spaced-repetition-checkpointing-learning)  to learn 
 2. What is their need?
