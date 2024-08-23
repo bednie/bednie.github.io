@@ -18,8 +18,9 @@ Notes:
     - Adapt principles to our own needs, which is Agile
 
 Exercise:
+
 1. Population of interest? 
-    - People who use or might want to use spaced repetition to learn 
+    - People who use or might want to use [spaced repetition](https://borretti.me/article/spaced-repetition-checkpointing-learning)  to learn 
 2. What is their need?
     - Keep track of what they should be learning or reviewing, since it can be hard to remember
 3. Propose a product:
