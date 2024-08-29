@@ -12,3 +12,4 @@ This involves segmenting--we can't just say "everyone." Who has the problem? Why
 I adapted my machine learning class final project to this assignment. There are many popular solutions for face verification using cloud-connected "doorbells" and other devices. In settings where privacy and security are important, the cloud-connectedness is a major problem.
 
 
+
