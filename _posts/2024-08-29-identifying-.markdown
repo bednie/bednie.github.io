@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Segmenting Customers & Identifying Needs"
-date:   2024-08-29 20:55:08 -0600
+date:   2024-08-29 00:55:08 -0600
 categories: update customers stakeholders
 ---
 
